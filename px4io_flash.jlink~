@@ -1,0 +1,5 @@
+r
+h
+loadbin $(HOME)/Libre-MP-Bootloader/px4io_bl.bin,0x08000000
+r
+g
